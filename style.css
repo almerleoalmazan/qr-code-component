@@ -21,7 +21,7 @@ p, h1 {
     text-align: center;
 }
 
-.container {
+main {
     font-family: 'Outfit', sans-serif;
     min-height: 100vh;
     display: flex;
